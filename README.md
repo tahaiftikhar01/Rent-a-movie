@@ -1,4 +1,7 @@
 # Rent-a-movie
+In this project i use the dataset provided to setup the and connect with the SQL database, then i use the code to extract customer informaation like, address, category, etc to gain valuable insights.
+
+
 College Project on SQL 
 install.packages("DBI", dependencies = TRUE)
 install.packages("RSQLite", dependencies = TRUE)
